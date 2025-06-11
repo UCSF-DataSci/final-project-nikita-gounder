@@ -1,8 +1,6 @@
 # Final Project Report: CNN Classification of Blood Cell Types
 Nikita Gounder
-
 DS 224
-
 6/11/25
 
 ## Introduction
