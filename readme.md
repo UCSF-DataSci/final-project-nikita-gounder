@@ -1,10 +1,8 @@
 # Final Project Report: CNN Classification of Blood Cell Types
-Nikita Gounder
-DS 224
-6/11/25
+Nikita Gounder * DS 224 * 6/11/25
 
 ## Introduction
-Classifying blood cells, especially white blood cells (WBC), is crucial in clinical diagnostics. Abnormal levels or appearances can indicate infections, immune disorders, or blood cancers. Accurate identification of cell types from microscopic images is essential for timely and effective treatment decisions. Existing models, however,r often suffer from overfitting, class imbalance, or limited generalization due to small or imbalanced datasets. In this project, I use the BloodMNIST dataset from MedMNIST, which contains labeled RGB images of various blood cell types, to develop a convolutional neural network (CNN) for automated classification. The aim is to explore how well a deep learning pipeline using TensorFlow/Keras performs on this task while evaluating performance using standard metrics such as accuracy, precision, recall, F1-score, and confusion matrices.[1]
+Classifying blood cells, especially white blood cells (WBC), is crucial in clinical diagnostics. Abnormal levels or appearances can indicate infections, immune disorders, or blood cancers. Accurate identification of cell types from microscopic images is essential for timely and effective treatment decisions. Existing models suffer from overfitting, class imbalance, or limited generalization due to small or imbalanced datasets. In this project, I use the BloodMNIST dataset from MedMNIST, which contains labeled RGB images of various blood cell types, to develop a convolutional neural network (CNN) for automated classification. The aim is to explore how well a deep learning pipeline using TensorFlow/Keras performs on this task while evaluating performance using standard metrics such as accuracy, precision, recall, F1-score, and confusion matrices.[1]
 
 
 ## Datset
